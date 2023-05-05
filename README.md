@@ -1,4 +1,4 @@
-# web-rtc android
+# webrtc-android
 
 Makes the libwebrtc build from https://github.com/muxinc/webrtc-builder accessible via our Maven repo.
 
